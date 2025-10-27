@@ -1,16 +1,17 @@
-## Hi there 👋
+(TOC)
 
-<!--
-**Felicianogoncalves/Felicianogoncalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Introducao
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ut scelerisque felis, eu lacinia massa. Etiam quis magna in tellus mattis lobortis. Aliquam erat volutpat. Vestibulum ac neque ligula. Duis eget elit tincidunt, viverra dui non, convallis ligula. Ut vulputate purus id leo interdum, at volutpat quam iaculis. Aliquam erat volutpat. Nunc varius eu ante eget rutrum. Nunc at augue eros.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Objetivos
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget volutpat mauris. Nunc quis nisi a mi condimentum mattis a sodales dolor. Vivamus euismod tellus id nisl ultricies, ut facilisis.
+
+# Arquitectura
+
+## Linguagem
+Python
+
+## Base dados
+SQL Server
